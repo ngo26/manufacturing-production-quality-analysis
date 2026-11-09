@@ -83,6 +83,8 @@ The interactive Tableau dashboard includes:
 - Defect counts by category.
 - An interactive production line filter.
 
+ ![Manufacturing Production & Quality Dashboard](03_Tableau/Manufacturing_Production_Quality_Dashboard.png) 
+
 ## Project Structure
 
 ```text
